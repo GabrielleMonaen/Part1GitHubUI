@@ -1,5 +1,9 @@
 # Contributing
 
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
+
+# Additional Information:
+
 Please follow the following guidelines to contribute to this project:
 
 ## Form the repository
